@@ -2,6 +2,9 @@
 Basic TCP server with Go language that you can use to run it on a specific address, listen to connections, accept them, and write back. This type of application can be used to build chat server, file sharing system, real time notification system, custom protocl server (fav), and more.
 
 
+## Tech used
+- Go
+
 ## Donwload 
 - Clone the repository to your local machine:
 
